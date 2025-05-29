@@ -1,2 +1,2 @@
 # learn-go
-For learning Go journey
+A structured repo to document my Go learning journey.
